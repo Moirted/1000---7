@@ -1,0 +1,1 @@
+call "%CD%\data\star.bat"
